@@ -11,6 +11,6 @@ class Timeline extends \yii\base\Widget
 
     public function run()
     {
-        return "Hello!";
+        return $this->render('hello');
     }
 }
