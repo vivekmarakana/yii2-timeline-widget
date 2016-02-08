@@ -7,7 +7,7 @@ namespace vivekmarakana\widgets;
  *
  * @author Vivek Marakana <vivek.marakana@gmail.com>
  */
-class TimelineAsset extends \yii\web\AssetBundle
+class TimelineAssets extends \yii\web\AssetBundle
 {
     public $depends = [
         '\rmrevin\yii\fontawesome\AssetBundle'

@@ -85,13 +85,3 @@
 .timeline>li>.timeline-item>.timeline-footer {
     padding: 10px;
 }
-
-.bg-red{
-    background-color: #DD4B39 !important;
-    color: #FFFFFF !important;
-}
-
-.bg-blue {
-    background-color: #0073B7 !important;
-    color: #FFFFFF !important;
-}
