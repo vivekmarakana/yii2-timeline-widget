@@ -36,5 +36,5 @@
         <?php endfor; ?>
       </ul>
 <?php else: ?>
-    <h2>No history available.</h2>
+    <h2>No data available.</h2>
 <?php endif; ?>
