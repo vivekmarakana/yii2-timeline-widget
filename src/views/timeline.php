@@ -31,6 +31,9 @@
                     <?php if(!empty($history[$i]['notes'])) : ?>
                         <div class="timeline-body"><?=$history[$i]['notes']?></div>
                     <?php endif; ?>
+                    <?php if(!empty($history[$i]['footer'])) : ?>
+                        <div class="timeline-footer"><?=$history[$i]['footer']?></div>
+                    <?php endif; ?>
                 </div>
             </li>
         <?php endfor; ?>
