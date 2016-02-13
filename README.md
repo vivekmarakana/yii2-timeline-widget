@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist vivekmarkana/yii2-timeline-widget "*"
+php composer.phar require --prefer-dist vivekmarakana/yii2-timeline-widget "*"
 ```
 
 or add
 
 ```
-"vivekmarkana/yii2-timeline-widget": "*"
+"vivekmarakana/yii2-timeline-widget": "*"
 ```
 
 to the require section of your `composer.json` file.
