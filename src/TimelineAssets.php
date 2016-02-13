@@ -10,11 +10,16 @@ namespace vivekmarakana\widgets;
 class TimelineAssets extends \yii\web\AssetBundle
 {
     public $depends = [
+        '\yii\web\JqueryAsset',
         '\rmrevin\yii\fontawesome\AssetBundle'
     ];
 
     public $css = [
         'timeline.css',
+    ];
+
+    public $js = [
+        'timeline.js',
     ];
 
     /**

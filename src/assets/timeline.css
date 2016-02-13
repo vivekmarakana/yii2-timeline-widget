@@ -81,7 +81,22 @@
     line-height: 1.1;
 }
 
-.timeline>li>.timeline-item>.timeline-body,
-.timeline>li>.timeline-item>.timeline-footer {
-    padding: 10px;
+.timeline>li>.timeline-item>.timeline-header>.expander{
+    font-size: 18px;
+    vertical-align: top;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.timeline>li>.timeline-item.collapsible>.timeline-data{
+    display: none;
+}
+
+.timeline>li>.timeline-item>.timeline-data{
+    padding: 0 10px;
+}
+
+.timeline>li>.timeline-item>.timeline-data>.timeline-body,
+.timeline>li>.timeline-item>.timeline-data>.timeline-footer{
+    padding: 10px 0;
 }
