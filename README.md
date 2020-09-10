@@ -1,5 +1,10 @@
 Yii2 Timeline Widget
 ====================
+
+[![Total Downloads](https://poser.pugx.org/vivekmarakana/yii2-timeline-widget/downloads)](//packagist.org/packages/vivekmarakana/yii2-timeline-widget)
+[![Monthly Downloads](https://poser.pugx.org/vivekmarakana/yii2-timeline-widget/d/monthly)](//packagist.org/packages/vivekmarakana/yii2-timeline-widget)
+[![License](https://poser.pugx.org/vivekmarakana/yii2-timeline-widget/license)](//packagist.org/packages/vivekmarakana/yii2-timeline-widget)
+
 Timeline/Telemetry Widget for Yii2
 
 Installation
